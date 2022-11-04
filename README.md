@@ -8,16 +8,16 @@
 #   > Using Natural Language Processing (NLP) helped me understand how texts are analysed and interpreted in a programming language.
 #   > Naive Bayes classifier was a challenge during college, but this project made me realize the actual thought process behind the math!
 #Libraries used so far!
-#  >Pandas
- # >Numpy
-  #>Seaborn
-  #>Sklearn(CountVectorizer,train_test_split,MultinomialNB[naive_bayes],classification_report,confusion_matrix)
-  #>Matplotlib
-#  >Jupyterthemes
- # >Wordcloud
-#  >String(for removinf string punctuations)
- # >NLTK(Natural Language Tool Kit)
- # >Requests
- # >Xlswriter
- # >warning
- # >Math
+# >Pandas
+# >Numpy
+# >Seaborn
+# >Sklearn(CountVectorizer,train_test_split,MultinomialNB[naive_bayes],classification_report,confusion_matrix)
+# >Matplotlib
+# >Jupyterthemes
+# >Wordcloud
+# >String(for removinf string punctuations)
+# >NLTK(Natural Language Tool Kit)
+# >Requests
+# >Xlswriter
+# >warning
+# >Math
