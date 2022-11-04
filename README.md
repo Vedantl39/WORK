@@ -1,8 +1,3 @@
-''''
-@settings {
-  font-size: 100;
-}
-''''
 # WORK
 
 This repository is used for exibiting my projects.
